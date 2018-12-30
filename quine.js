@@ -1,5 +1,5 @@
-function something(){
-    console.log(`${something.toString()}\n\nsomething();`);
+function quine(){
+    console.log(`${quine.toString()}\n\nquine();`);
 }
 
-something();
+quine();
