@@ -1,5 +1,1 @@
-function quine(){
-    console.log(`${quine.toString()}\n\nquine();`);
-}
-
-quine();
+function quine(){console.log(`${quine.toString()}quine();`);}quine();
